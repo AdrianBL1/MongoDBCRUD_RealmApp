@@ -1,0 +1,9 @@
+<resources>
+    <string name="realm_app_id">application-0-erkoy</string>
+    <string name="realm_app_url">https://realm.mongodb.com/groups/64bf15d9b2c07a5e4ed0bdc1/apps/64c7534f1c5a7275fb15a275</string>
+    <string name="realm_base_url">https://realm.mongodb.com</string>
+    <string name="realm_client_api_base_url">https://us-east-1.aws.realm.mongodb.com</string>
+    <string name="realm_data_api_base_url">https://us-east-1.aws.data.mongodb-api.com</string>
+    <string name="realm_data_explorer_link">https://cloud.mongodb.com/links/64bf15d9b2c07a5e4ed0bdc1/explorer/AdrianBasilioLopez/database/collection/find</string>
+    <string name="realm_data_source_name">mongodb-atlas</string>
+</resources>
